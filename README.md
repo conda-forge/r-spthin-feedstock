@@ -1,11 +1,11 @@
-About r-spthin
-==============
+About r-spthin-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spthin-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=spThin
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-spthin-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of functions that can be used to spatially thin species occurrence data. The resulting thinned data can be used in ecological modeling, such as ecological niche modeling.
 
